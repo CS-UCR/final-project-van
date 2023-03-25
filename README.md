@@ -1,5 +1,7 @@
 # final-project-van : CS 108 Gender Bias Project
+
 final-project-van created by GitHub Classroom
+
 Team members: Anushka Pandya, Neha Mathews, Vishal Gondi
 
 Project Description:
