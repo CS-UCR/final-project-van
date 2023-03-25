@@ -17,19 +17,19 @@ Contributions:
 Neha and Vishal worked on cleaning the data and Neha found dataset1. Anushka found dataset 2. Vishal worked on the predictive models. Both Anushka and Neha helped Vishal with the predictive models. Anushka worked on the bias portion. Neha helped Anushka work on the fairness and metrics part. Everyone contributed to creating the readme/report and creating the slides. 
 
 Libraries used:
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import math 
-import seaborn as sns
-from sklearn import preprocessing
-from sklearn.model_selection import train_test_split
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_squared_error
-import matplotlib.pyplot as plt
-import seaborn as sns
-import pandas as pd
+import pandas as pd,
+import numpy as np,
+import matplotlib.pyplot as plt,
+import math,
+import seaborn as sns,
+from sklearn import preprocessing,
+from sklearn.model_selection import train_test_split,
+from sklearn.neighbors import KNeighborsClassifier,
+from sklearn.linear_model import LinearRegression,
+from sklearn.metrics import mean_squared_error,
+import matplotlib.pyplot as plt,
+import seaborn as sns,
+import pandas as pd,
 from sklearn.neighbors import KNeighborsRegressor
 
 
